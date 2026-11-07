@@ -1,0 +1,164 @@
+{
+  "nb_offres_lues": 76,
+  "nb_rapprochees": 76,
+  "nb_produits_compares": 23,
+  "sans_comparaison": [
+    "P03",
+    "P08",
+    "P13",
+    "P18",
+    "P19",
+    "P25",
+    "P30"
+  ],
+  "victoires": {
+    "Marché Lagune": 6,
+    "Baobab Shop": 9,
+    "Comptoir Ivoire": 10
+  },
+  "ecart_moyen_pct": {
+    "Baobab Shop": 4.673849940450886,
+    "Comptoir Ivoire": 2.807456170144644,
+    "Marché Lagune": 3.788026574249584
+  },
+  "top3": [
+    {
+      "produit_id": "P11",
+      "produit": "HP 250 G9 Core i5 8 Go 512 Go",
+      "enseigne_la_moins_chere": "Baobab Shop",
+      "prix_min": 354200,
+      "prix_max": 407000,
+      "ecart_fcfa": 52800,
+      "ecart_pct": 14.9
+    },
+    {
+      "produit_id": "P09",
+      "produit": "Apple iPhone 13 128 Go",
+      "enseigne_la_moins_chere": "Baobab Shop",
+      "prix_min": 417200,
+      "prix_max": 443700,
+      "ecart_fcfa": 26500,
+      "ecart_pct": 6.4
+    },
+    {
+      "produit_id": "P24",
+      "produit": "Climatiseur LG 1 CV",
+      "enseigne_la_moins_chere": "Baobab Shop",
+      "prix_min": 253300,
+      "prix_max": 279300,
+      "ecart_fcfa": 26000,
+      "ecart_pct": 10.3
+    }
+  ],
+  "panier": {
+    "Marché Lagune": {
+      "total": null,
+      "manquants": [
+        "P04"
+      ]
+    },
+    "Baobab Shop": {
+      "total": 491500,
+      "manquants": []
+    },
+    "Comptoir Ivoire": {
+      "total": 484075,
+      "manquants": []
+    }
+  },
+  "panier_optimise": {
+    "total": 477575,
+    "detail": [
+      {
+        "produit_id": "P04",
+        "qte": 1,
+        "enseigne": "Baobab Shop",
+        "prix_unitaire": 75000
+      },
+      {
+        "produit_id": "P12",
+        "qte": 1,
+        "enseigne": "Comptoir Ivoire",
+        "prix_unitaire": 287375
+      },
+      {
+        "produit_id": "P14",
+        "qte": 2,
+        "enseigne": "Marché Lagune",
+        "prix_unitaire": 6100
+      },
+      {
+        "produit_id": "P15",
+        "qte": 1,
+        "enseigne": "Marché Lagune",
+        "prix_unitaire": 37600
+      },
+      {
+        "produit_id": "P28",
+        "qte": 1,
+        "enseigne": "Baobab Shop",
+        "prix_unitaire": 65400
+      }
+    ]
+  },
+  "black_friday_ecart_pct": {
+    "Marché Lagune": -11.324225766394628,
+    "Baobab Shop": -11.682824697578324,
+    "Comptoir Ivoire": 3.7504164828237507
+  },
+  "indice_mensuel": {
+    "Marché Lagune": {
+      "2025-11": 101.0154197420668,
+      "2025-12": 103.86010926556709,
+      "2026-01": 103.08813351193616,
+      "2026-02": 102.27874418798385,
+      "2026-03": 101.96339518889745,
+      "2026-04": 101.15759382415331,
+      "2026-05": 99.98892381058958,
+      "2026-06": 99.275305248826,
+      "2026-07": 98.43698042436301,
+      "2026-08": 97.63080313458866,
+      "2026-09": 95.36642968938351,
+      "2026-10": 96.05593555449556
+    },
+    "Baobab Shop": {
+      "2025-11": 100.54112385637586,
+      "2025-12": 103.48223367615014,
+      "2026-01": 102.66392158331422,
+      "2026-02": 102.11206276434307,
+      "2026-03": 101.95143305228144,
+      "2026-04": 101.15842889164705,
+      "2026-05": 100.01658583080868,
+      "2026-06": 99.33924170045606,
+      "2026-07": 98.7042387940497,
+      "2026-08": 97.93864580431854,
+      "2026-09": 95.63604421505437,
+      "2026-10": 96.55316973302546
+    },
+    "Comptoir Ivoire": {
+      "2025-11": 104.0079076029294,
+      "2025-12": 103.29624886082787,
+      "2026-01": 102.53058424929317,
+      "2026-02": 101.90644930510379,
+      "2026-03": 101.46767653867273,
+      "2026-04": 100.68322168086428,
+      "2026-05": 99.7873162424287,
+      "2026-06": 99.08230859873392,
+      "2026-07": 98.31394538683065,
+      "2026-08": 97.60929197536744,
+      "2026-09": 95.7913160757637,
+      "2026-10": 96.12788159182709
+    }
+  },
+  "lignes_historique": 20876,
+  "benchmark": {
+    "n": 20876,
+    "cles": 76,
+    "requetes": 2000,
+    "lecture_csv_s": 0.019799500005319715,
+    "naif_s": 3.246423999662511,
+    "index_s": 0.006854500039480627
+  },
+  "nb_anomalies_journal": 19,
+  "duree_totale_s": 0.44756490003783256
+}

@@ -1,0 +1,20 @@
+﻿source;ligne;probleme;action
+Marché Lagune;14;doublon de ML-1000;ligne ignorée
+Marché Lagune;18;ML-1105 : espaces parasites dans le nom;nom nettoyé
+Marché Lagune;18;ML-1105 : casse différente (minuscules);casse normalisée
+Marché Lagune;20;ML-1119 : prix inexploitable ('Prix sur demande');offre exclue du comparatif
+Marché Lagune;27;ML-1168 : prix inexploitable ('');offre exclue du comparatif
+Marché Lagune;31;doublon de ML-1147;ligne ignorée
+Baobab Shop;23;BB27999 : amount manquant (null);offre exclue du comparatif
+Comptoir Ivoire;20;CI216 : prix stocké en texte ('279\u202f300', espace insécable);converti en entier
+Marché Lagune;5;ML-1021 (P04) : prix 779,000 FCFA aberrant (médiane des autres enseignes 76,300, ancien prix 88,700);exclu du comparatif (probable faute de frappe : un chiffre en trop)
+Marché Lagune;2;ML-1000 (P01) : en rupture de stock;offre exclue du comparatif
+Marché Lagune;4;ML-1014 (P03) : en rupture de stock;offre exclue du comparatif
+Marché Lagune;9;ML-1049 (P08) : en rupture de stock;offre exclue du comparatif
+Marché Lagune;15;ML-1084 (P13) : en rupture de stock;offre exclue du comparatif
+Marché Lagune;24;ML-1147 (P23) : en rupture de stock;offre exclue du comparatif
+Baobab Shop;3;BB03433 (P03) : en rupture de stock;offre exclue du comparatif
+Baobab Shop;14;BB16464 (P16) : en rupture de stock;offre exclue du comparatif
+Baobab Shop;26;BB30124 (P30) : en rupture de stock;offre exclue du comparatif
+Comptoir Ivoire;18;CI214 (P22) : en rupture de stock;offre exclue du comparatif
+Comptoir Ivoire;21;CI217 (P25) : en rupture de stock;offre exclue du comparatif
